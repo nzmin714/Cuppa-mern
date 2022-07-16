@@ -58,10 +58,18 @@ main{
   max-width: 400px;
 }
 
-.product__info{
+.product-info{
   padding: 1rem;
 }
 
-.product__info a{
+Link {
   text-decoration: none;
+}
+.btn-primary{
+  background-color: gray;
+  color: black;
+}
+
+.rating span{
+  color: #ffc000;
 }
